@@ -1,0 +1,29 @@
+
+.main   {
+    font-family: 'Work Sans', sans-serif;
+    font-size: small;
+    background-color: #fafafa;
+    padding: 12px;
+}
+
+
+
+.main input[type="submit"] {
+    padding: 8px 24px;
+    color: #fff;
+    background-color: #5ac990;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 500;
+    
+  }
+
+
+.main textarea    {
+    font-family: 'Work Sans', sans-serif;
+    background: transparent;
+    border: none;
+    outline: none;
+  }
